@@ -1,9 +1,9 @@
 ---
 name: pump
-version: 3.0.2
+version: 3.0.3
 type: npm
 summary: pipe streams together and close all of them if one of them closes
-homepage:
+homepage: 
 license: mit
 licenses:
 - sources: LICENSE

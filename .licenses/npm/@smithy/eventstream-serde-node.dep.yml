@@ -1,9 +1,9 @@
 ---
 name: "@smithy/eventstream-serde-node"
-version: 4.0.1
+version: 4.2.7
 type: npm
-summary:
-homepage: https://github.com/awslabs/smithy-typescript/tree/main/packages/eventstream-serde-node
+summary: 
+homepage: https://github.com/smithy-lang/smithy-typescript/tree/main/packages/eventstream-serde-node
 license: apache-2.0
 licenses:
 - sources: LICENSE

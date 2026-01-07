@@ -1,6 +1,6 @@
 ---
 name: "@aws-sdk/nested-clients"
-version: 3.758.0
+version: 3.964.0
 type: npm
 summary: Nested clients for AWS SDK packages.
 homepage: https://github.com/aws/aws-sdk-js-v3/tree/main/packages/nested-clients

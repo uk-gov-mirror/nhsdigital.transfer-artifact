@@ -1,9 +1,9 @@
 ---
 name: "@smithy/util-hex-encoding"
-version: 4.0.0
+version: 4.2.0
 type: npm
 summary: Converts binary buffers to and from lowercase hexadecimal encoding
-homepage: https://github.com/awslabs/smithy-typescript/tree/main/packages/util-hex-encoding
+homepage: https://github.com/smithy-lang/smithy-typescript/tree/main/packages/util-hex-encoding
 license: apache-2.0
 licenses:
 - sources: LICENSE

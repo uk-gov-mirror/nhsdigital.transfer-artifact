@@ -1,9 +1,9 @@
 ---
 name: "@smithy/smithy-client"
-version: 4.1.6
+version: 4.10.2
 type: npm
-summary:
-homepage: https://github.com/awslabs/smithy-typescript/tree/main/packages/smithy-client
+summary: 
+homepage: https://github.com/smithy-lang/smithy-typescript/tree/main/packages/smithy-client
 license: apache-2.0
 licenses:
 - sources: LICENSE

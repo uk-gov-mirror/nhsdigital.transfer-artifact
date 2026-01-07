@@ -1,9 +1,9 @@
 ---
 name: "@smithy/middleware-endpoint"
-version: 4.0.6
+version: 4.4.1
 type: npm
-summary:
-homepage: https://github.com/awslabs/smithy-typescript/tree/main/packages/middleware-endpoint
+summary: 
+homepage: https://github.com/smithy-lang/smithy-typescript/tree/main/packages/middleware-endpoint
 license: apache-2.0
 licenses:
 - sources: LICENSE

@@ -1,6 +1,6 @@
 ---
 name: aws-crt
-version: 1.25.3
+version: 1.28.1
 type: npm
 summary: NodeJS/browser bindings to the aws-c-* libraries
 homepage: https://github.com/awslabs/aws-crt-nodejs

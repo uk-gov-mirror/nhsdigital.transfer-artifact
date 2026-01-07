@@ -1,9 +1,9 @@
 ---
 name: "@smithy/protocol-http"
-version: 5.0.1
+version: 5.3.7
 type: npm
-summary:
-homepage: https://github.com/awslabs/smithy-typescript/tree/main/packages/protocol-http
+summary: 
+homepage: https://github.com/smithy-lang/smithy-typescript/tree/main/packages/protocol-http
 license: apache-2.0
 licenses:
 - sources: LICENSE

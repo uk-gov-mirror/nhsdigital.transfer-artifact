@@ -1,9 +1,9 @@
 ---
 name: "@smithy/util-waiter"
-version: 4.0.2
+version: 4.2.7
 type: npm
 summary: Shared utilities for client waiters for the AWS SDK
-homepage: https://github.com/awslabs/smithy-typescript/tree/main/packages/util-waiter
+homepage: https://github.com/smithy-lang/smithy-typescript/tree/main/packages/util-waiter
 license: apache-2.0
 licenses:
 - sources: LICENSE

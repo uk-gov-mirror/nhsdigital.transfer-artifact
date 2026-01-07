@@ -1,9 +1,9 @@
 ---
 name: "@smithy/property-provider"
-version: 4.0.1
+version: 4.2.7
 type: npm
-summary:
-homepage: https://github.com/awslabs/smithy-typescript/tree/main/packages/property-provider
+summary: 
+homepage: https://github.com/smithy-lang/smithy-typescript/tree/main/packages/property-provider
 license: apache-2.0
 licenses:
 - sources: LICENSE

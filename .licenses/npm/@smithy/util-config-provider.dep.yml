@@ -1,9 +1,9 @@
 ---
 name: "@smithy/util-config-provider"
-version: 4.0.0
+version: 4.2.0
 type: npm
 summary: Utilities package for configuration providers
-homepage: https://github.com/awslabs/smithy-typescript/tree/main/packages/util-config-provider
+homepage: https://github.com/smithy-lang/smithy-typescript/tree/main/packages/util-config-provider
 license: apache-2.0
 licenses:
 - sources: LICENSE

@@ -1,10 +1,10 @@
 ---
 name: "@smithy/middleware-stack"
-version: 4.0.1
+version: 4.2.7
 type: npm
 summary: Provides a means for composing multiple middleware functions into a single
   handler
-homepage: https://github.com/awslabs/smithy-typescript/tree/main/packages/middleware-stack
+homepage: https://github.com/smithy-lang/smithy-typescript/tree/main/packages/middleware-stack
 license: apache-2.0
 licenses:
 - sources: LICENSE

@@ -1,6 +1,6 @@
 ---
 name: "@aws-sdk/crt-loader"
-version: 3.758.0
+version: 3.964.0
 type: npm
 summary: Loader for AWS Common Runtime https://github.com/awslabs/aws-crt-nodejs
 homepage: https://github.com/aws/aws-sdk-js-v3/tree/main/packages/crt-loader
