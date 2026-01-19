@@ -1,8 +1,8 @@
 ---
 name: "@aws-sdk/middleware-sdk-s3"
-version: 3.758.0
+version: 3.964.0
 type: npm
-summary:
+summary: 
 homepage: https://github.com/aws/aws-sdk-js-v3/tree/main/packages/middleware-sdk-s3
 license: apache-2.0
 licenses:

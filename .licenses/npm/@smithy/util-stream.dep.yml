@@ -1,9 +1,9 @@
 ---
 name: "@smithy/util-stream"
-version: 4.1.2
+version: 4.5.8
 type: npm
-summary:
-homepage: https://github.com/awslabs/smithy-typescript/tree/main/packages/util-stream
+summary: 
+homepage: https://github.com/smithy-lang/smithy-typescript/tree/main/packages/util-stream
 license: apache-2.0
 licenses:
 - sources: LICENSE

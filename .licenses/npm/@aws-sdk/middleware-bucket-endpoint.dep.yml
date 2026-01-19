@@ -1,8 +1,8 @@
 ---
 name: "@aws-sdk/middleware-bucket-endpoint"
-version: 3.734.0
+version: 3.957.0
 type: npm
-summary:
+summary: 
 homepage: https://github.com/aws/aws-sdk-js-v3/tree/main/packages/middleware-bucket-endpoint
 license: apache-2.0
 licenses:

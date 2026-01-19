@@ -1,9 +1,9 @@
 ---
 name: "@smithy/abort-controller"
-version: 4.0.1
+version: 4.2.7
 type: npm
 summary: A simple abort controller library
-homepage: https://github.com/awslabs/smithy-typescript/tree/main/packages/abort-controller
+homepage: https://github.com/smithy-lang/smithy-typescript/tree/main/packages/abort-controller
 license: apache-2.0
 licenses:
 - sources: LICENSE

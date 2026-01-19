@@ -1,9 +1,9 @@
 ---
 name: "@smithy/chunked-blob-reader"
-version: 5.0.0
+version: 5.2.0
 type: npm
-summary:
-homepage: https://github.com/awslabs/smithy-typescript/tree/main/packages/chunked-blob-reader
+summary: 
+homepage: https://github.com/smithy-lang/smithy-typescript/tree/main/packages/chunked-blob-reader
 license: apache-2.0
 licenses:
 - sources: LICENSE

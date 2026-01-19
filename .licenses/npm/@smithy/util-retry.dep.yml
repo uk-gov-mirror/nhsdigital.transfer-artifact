@@ -1,9 +1,9 @@
 ---
 name: "@smithy/util-retry"
-version: 4.0.1
+version: 4.2.7
 type: npm
 summary: Shared retry utilities to be used in middleware packages.
-homepage: https://github.com/awslabs/smithy-typescript/tree/master/packages/util-retry
+homepage: https://github.com/smithy-lang/smithy-typescript/tree/master/packages/util-retry
 license: apache-2.0
 licenses:
 - sources: LICENSE

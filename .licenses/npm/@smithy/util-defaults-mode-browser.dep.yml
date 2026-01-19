@@ -1,9 +1,9 @@
 ---
 name: "@smithy/util-defaults-mode-browser"
-version: 4.0.7
+version: 4.3.16
 type: npm
-summary:
-homepage: https://github.com/awslabs/smithy-typescript/tree/main/packages/util-defaults-mode-node
+summary: 
+homepage: https://github.com/smithy-lang/smithy-typescript/tree/main/packages/util-defaults-mode-node
 license: apache-2.0
 licenses:
 - sources: LICENSE

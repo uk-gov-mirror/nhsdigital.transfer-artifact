@@ -1,9 +1,9 @@
 ---
 name: "@smithy/util-body-length-node"
-version: 4.0.0
+version: 4.2.1
 type: npm
 summary: Determines the length of a request body in node.js
-homepage: https://github.com/awslabs/smithy-typescript/tree/main/packages/util-body-length-node
+homepage: https://github.com/smithy-lang/smithy-typescript/tree/main/packages/util-body-length-node
 license: apache-2.0
 licenses:
 - sources: LICENSE

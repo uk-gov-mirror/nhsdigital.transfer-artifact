@@ -1,9 +1,9 @@
 ---
 name: "@smithy/util-endpoints"
-version: 3.0.1
+version: 3.2.7
 type: npm
 summary: Utilities to help with endpoint resolution.
-homepage: https://github.com/awslabs/smithy-typescript/tree/master/packages/util-endpoints
+homepage: https://github.com/smithy-lang/smithy-typescript/tree/master/packages/util-endpoints
 license: apache-2.0
 licenses:
 - sources: LICENSE

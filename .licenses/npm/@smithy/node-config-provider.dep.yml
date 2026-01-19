@@ -1,9 +1,9 @@
 ---
 name: "@smithy/node-config-provider"
-version: 4.0.1
+version: 4.3.7
 type: npm
 summary: Load config default values from ini config files and environmental variable
-homepage: https://github.com/awslabs/smithy-typescript/tree/main/packages/node-config-provider
+homepage: https://github.com/smithy-lang/smithy-typescript/tree/main/packages/node-config-provider
 license: apache-2.0
 licenses:
 - sources: LICENSE
