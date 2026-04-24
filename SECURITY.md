@@ -13,7 +13,7 @@ We take security and the protection of private data extremely seriously. If you 
 
 If you believe you have found a security issue in this repository, please report it using GitHub's private vulnerability reporting:
 
-1. [Report a vulnerability](https://github.com/NHSDigital/software-engineering-quality-framework/security/advisories/new)
+1. [Report a vulnerability](https://github.com/NHSDigital/transfer-artifact/security/advisories/new)
 2. Provide details of the issue and steps to reproduce
 
 This creates a private channel for discussion and allows us to coordinate a fix before any public disclosure.
