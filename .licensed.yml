@@ -35,3 +35,4 @@ reviewed:
     - package-json-from-dist
     - path-scurry
     - traverse
+    - '@actions/http-client'
