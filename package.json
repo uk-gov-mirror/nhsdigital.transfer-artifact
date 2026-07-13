@@ -6,7 +6,6 @@
   "scripts": {
     "build": "tsc",
     "release": "esbuild src/upload-or-download.ts --tree-shaking=true --bundle --minify --platform=node --outfile=dist/index.js && git add -f dist/",
-    "check-all": "concurrently \"npm:format-check\" \"npm:lint\" \"npm:test\" \"npm:build\"",
     "fix": "prettier -w . && eslint --quiet --fix .",
     "format": "prettier --write .",
     "format-check": "prettier --check .",
@@ -50,7 +49,6 @@
     "@typescript-eslint/eslint-plugin": "^8.25",
     "@typescript-eslint/parser": "^8.25.0",
     "esbuild": "^0.25.0",
-    "concurrently": "^8.2.2",
     "cross-env": "^7.0.3",
     "eslint": "^9.21.0",
     "eslint-config-prettier": "^10.0.2",
